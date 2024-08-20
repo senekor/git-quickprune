@@ -1,6 +1,6 @@
 [package]
 name = "git-quickprune"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "Unlicense"
 description = "A CLI tool to quickly prune squash-merged branches."
