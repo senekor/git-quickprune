@@ -1,9 +1,13 @@
 [package]
 name = "git-quickprune"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
-license = "Unlicense"
+authors = ["Remo Senekowitsch"]
 description = "A CLI tool to quickly prune squash-merged branches."
+readme = "README.md"
+repository = "https://github.com/senekor/git-quickprune"
+license = "Unlicense"
+categories = ["command-line-utilities"]
 
 [[bin]]
 name = "git-qp"

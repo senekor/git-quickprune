@@ -1,8 +1,6 @@
 # git-quickprune
 
-> [!IMPORTANT]
-> I don't use this tool anymore.
-> Let me know if you want the name on crates.io.
+## 📣 I don't use this tool anymore. Let me know if you want the name on crates.io.
 
 A CLI tool to quickly prune squash-merged branches.
 
